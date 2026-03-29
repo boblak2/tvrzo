@@ -11,6 +11,7 @@ namenjeni zlasti:
 
 
 Razvrstitev in kategorizacija orožja:
+
 Kategorija A:
 1. eksplozivni vojaški izstrelki in lanserji;
 2. avtomatsko strelno orožje;
@@ -18,8 +19,10 @@ Kategorija A:
 4. strelivo s prebojnim, eksplozivnim ali vnetljivim učinkom in nedelaborirani izstrelki za tako strelivo;
 5. strelivo za pištole in revolverje s kroglo, ki ima razširni (ekspanzijski) učinek, in krogle za tako strelivo,
 razen streliva za lovsko ali športno orožje za osebe, ki imajo pravico do tega orožja;
+
 6. vojaško orožje;
 6.a avtomatsko strelno orožje, ki je bilo predelano v polavtomatsko strelno orožje;
+
 7. polavtomatsko strelno orožje s centralnim vžigom naboja:
 7.a kratkocevno strelno orožje, ki omogoča izstrelitev več kot 21 nabojev brez ponovnega polnjenja z
 integralnim nabojnikom za več kot 20 nabojev ali se vanj vstavi menjalni nabojnik ali drug vir nabojev
@@ -27,10 +30,12 @@ za več kot 20 nabojev,
 7.b dolgocevno strelno orožje, ki omogoča izstrelitev več kot 11 nabojev brez ponovnega polnjenja z
 integralnim nabojnikom za več kot deset nabojev ali se vanj vstavi menjalni nabojnik ali drug vir
 nabojev za več kot deset nabojev;
+
 8.a polavtomatsko dolgocevno strelno orožje s centralnim vžigom naboja (tj. strelno orožje, prvotno
 namenjeno za streljanje z rame), ki se lahko z zložljivim ali teleskopskim kopitom ali kopitom, ki se
 lahko sname brez uporabe orodja, lahko skrajša na manj kot 60 centimetrov skupne dolžine, ne da bi
 izgubilo funkcionalnost;
+
 9. vsako strelno orožje v tej kategoriji, ki je bilo predelano za streljanje s slepimi naboji, dražljivimi ali
 drugimi aktivnimi snovmi ali pirotehničnim strelivom ali v rekvizitno ali akustično orožje;
 10. posebna oprema za orožje in orožje, na katerem je ta oprema oziroma je njegov sestavni del;
@@ -49,16 +54,21 @@ Kategorija B:
 4. polavtomatsko dolgocevno strelno orožje z nabojnikom in ležiščem naboja za skupaj več kot tri naboje,
 ko gre za strelno orožje z robnim vžigom, in za več kot tri, vendar manj kot 12 nabojev, ko gre za
 strelno orožje s centralnim vžigom naboja;
+
 5.b polavtomatsko kratkocevno strelno orožje (razen tistega iz 7.a točke kategorije A);
 6.b polavtomatsko dolgocevno strelno orožje iz točke 7.b kategorije A z napravo za polnjenje in ležiščem
 naboja za skupno manj kot tri naboje, pri katerem je napravo za polnjenje mogoče odstraniti ali za
 katero ni gotovo, da ga ne bi bilo mogoče z običajnim orodjem spremeniti v orožje z napravo za
 polnjenje in ležiščem naboja za skupno več kot tri naboje;
+
 7.b repetirno in polavtomatsko dolgocevno strelno orožje z gladko cevjo skupne dolžine do 60 centimetrov;
+
 8. vsako strelno orožje v tej kategoriji, ki je bilo predelano za streljanje s slepimi naboji, dražljivimi ali
 drugimi aktivnimi snovmi ali pirotehničnim strelivom ali v rekvizitno ali akustično orožje;
 9. polavtomatsko strelno orožje za civilno rabo, ki je podobno avtomatskemu strelnemu orožju, razen
 tistega iz 6.a, 7. ali 8.a točke kategorije A.
+
+
 Kategorija C:
 5. repetirno dolgocevno strelno orožje z risano cevjo in repetirno dolgocevno strelno orožje z gladko cevjo
 skupne dolžine več kot 60 centimetrov, ki ni zajeto v 7.b točki kategorije B;
@@ -255,7 +265,99 @@ nadaljuje pot. Pri vračanju se v strelni legi zaklep ponovno spoji s cevjo. Tak
 pištole z močnejšim strelivom.
 
 
-116 / STRELIVO todo
+Strelivo:
+Glede na učinek in namen delimo strelivo na:
+strelivo s prebojnim učinkom
+strelivo z eksplozivnim učinkom
+strelivo z vnetljivim učinkom
+strelivo z razpršilnim (ekspanzijskim) učinkom
+strelivo z razpršilnim (ekspanzijskim) učinkom
+
+naboji za puške risanice
+Naboji za orožje z gladko cevjo
+
+
+Sistem označevanja nabojev nam podaja podatek po naslednjem vrstnem redu; prva številka označuje
+kaliber cevi, druga številka pa dolžino tulca. Če ima ta številka dodatno oznako R (veliki R) pomeni, da ima
+takšen tulec rob (obod).
+
+
+
+Veda, ki obravnava gibanje naboja v cevi orožja in izven nje (ozračju) se imenuje balistika
+Glede na silo,
+ki deluje na kroglo v času njegovega gibanja v cevi in izven nje, delimo balistiko na :notranjo in zunanjo.
+
+
+RAVNANJE Z OROŽJEM:
+NOŠENJE OROŽJA
+Nošenje orožja pomeni, da ima posameznik orožje, pripravljeno za uporabo, pri sebi.
+Za nošenje orožja se ne šteje, če ima posameznik orožje pri sebi v svojih stanovanjskih prostorih, oziroma
+znotraj svojih ograjenih nepremičnin, če ni z zakonom drugače določeno.
+
+Pravila nošenja orožja
+Orožje se mora nositi tako, da ne ogroža osebne varnosti ali varnosti koga drugega.
+Varnostno orožje, ki ga nosijo varnostniki pri opravljanju službe varovanja po predpisih o zasebnem
+varovanju in obveznem organiziranju službe varovanja, smejo nositi le med opravljanjem službe, izven tega
+časa orožja ni dovoljeno nositi.
+Lovsko orožje se sme nositi in uporabljati samo v lovišču in na strelišču, izven lovišča oziroma strelišča pa
+se mora prenašati.
+Športno orožje se sme nositi in uporabljati samo na strelišču, izven strelišča pa se mora prenašati.
+
+
+Prepoved nošenja in prenašanja orožja
+
+
+PRAVILA VARNEGA ROKOVANJA Z OROŽJEM:
+Z orožjem vedno ravnaj
+kot da je napolnjeno
+
+Pazi kam je obrnjena cev
+orožja.
+
+
+Orožje naj bo odprto
+
+
+Uporabi le preverjeno
+strelivo.
+
+Zaščiti si oči in ušesa
+
+
+Nadzoruj svoje orožje.
+Orožje ne sme priti v roke neupravičeni osebi
+
+Orožje ni združljivo s
+psihoaktivnimi snovmi.
+
+
+Pazi, kako izročaš orožje
+drugi osebi.
+
+
+Ne popravljaj orožja sam
+
+
+Pred oddajo strela se
+prepričaj, kaj je cilj in kaj se nahaja »ZA« oziroma »V« smeri cilja.
+
+
+
+
+
+Slovar:
+KALIBER:premer cevi orožja. Ravno tako dimenzije in oznaka naboja 
+
+Kaj je?
+centralni vžig naboja
+robni vžig
+
+
+
+
+
+
+
 
 
 
